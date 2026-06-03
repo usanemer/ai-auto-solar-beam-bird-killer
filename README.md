@@ -1,17 +1,17 @@
 # AI 자동 태양광 조류퇴치기
--실시간으로 AI가 조류를 인식하고, 인식된 조류 위치로 태양빛을 집광하여 조류를 퇴치하는 시스템. 
-**Languages**: Python, C
-**AI Frameworks**: TensorFlow Lite, PyTorch, OpenCV
-**Embedded Systems**: Raspberry Pi , Arduino
-**Protocols**: SSH, VNC
+-실시간으로 AI가 조류를 인식하고, 인식된 조류 위치로 태양빛을 집광하여 조류를 퇴치하는 시스템.   
+**Languages**: Python, C  
+**AI Frameworks**: TensorFlow Lite, PyTorch, OpenCV  
+**Embedded Systems**: Raspberry Pi , Arduino  
+**Protocols**: SSH, VNC  
 
-[시연영상](https://drive.google.com/file/d/1IfoJf7-g2vfZvFv16jHVQO_M5lm80YaR/view?usp=sharing)
+[시연영상](https://drive.google.com/file/d/1IfoJf7-g2vfZvFv16jHVQO_M5lm80YaR/view?usp=sharing)  
 
 
 ## 파일 설명
-best-fp16.tflite : 조류 탐지 모델
-SolarBeam_ArduinoUNO.ino : 아두이노 코드
-SolarBeam_RaspberryPi.py : 라즈베리파이 코드
+best-fp16.tflite : 조류 탐지 모델  
+SolarBeam_ArduinoUNO.ino : 아두이노 코드  
+SolarBeam_RaspberryPi.py : 라즈베리파이 코드  
 
 
 ```mermaid
